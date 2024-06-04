@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name emi_filter_ll)(type Legacy)(uri ${KIPRJMOD}/emi_filter_ll.lib)(options "")(descr ""))
+  (lib (name 1149868)(type Legacy)(uri ${KIPRJMOD}/1149868.lib)(options "")(descr ""))
+)

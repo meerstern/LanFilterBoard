@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CMF)(type KiCad)(uri ${KIPRJMOD}/CMF.pretty)(options "")(descr ""))
+  (lib (name LAN)(type KiCad)(uri ${KIPRJMOD}/LAN.pretty)(options "")(descr ""))
+)

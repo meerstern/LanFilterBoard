@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"FL1","EMI_Filter_CommonMode","L_CommonModeChoke_Coilcraft_0805USB",146.200000,-96.000000,90.000000,bottom
+"FL3","EMI_Filter_CommonMode","L_CommonModeChoke_Coilcraft_0805USB",146.200000,-86.000000,90.000000,bottom
+"FL2","EMI_Filter_CommonMode","L_CommonModeChoke_Coilcraft_0805USB",146.200000,-91.200000,270.000000,top
+"FL4","EMI_Filter_CommonMode","L_CommonModeChoke_Coilcraft_0805USB",146.200000,-83.100000,270.000000,top
