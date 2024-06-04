@@ -30,7 +30,9 @@ LAN Filter Board
 | Port | [1149868][1] | Max 10 GBit/s |
 | Filter | [ALC2012-361-2P-T00][2] | 360Ω@100MHz,DC 0.5Ω, Typ.220mA, [Link][3] |
 
-
+<img src="/img/img1.JPG" width="300">
+<img src="/img/img2.JPG" width="300">
+<img src="/img/img3.JPG" width="300">
 
 [1]: https://www.phoenixcontact.com/ja-jp/products/cuc-sp-j1st-a-r4lb-1149868
 [2]: https://product.tdk.com/ja/search/emc/emc/cmf_cmc/info?part_no=ALC2012-361-2P-T00
