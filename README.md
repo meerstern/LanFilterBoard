@@ -31,6 +31,8 @@ LAN Filter Board
 | Port | [1149868][1] | Max 10 GBit/s |
 | Filter | [ALC2012-361-2P-T00][2] | 360Ω@100MHz,DC 0.5Ω, Typ.220mA, [Link][3] |
 
+## 外観
+  * サイズ 約51mm x約30mm x約22mm(コネクタ含む) 
 <img src="/img/img1.JPG" width="300">
 <img src="/img/img2.JPG" width="300">
 <img src="/img/img3.JPG" width="300">
